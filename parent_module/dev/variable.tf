@@ -123,3 +123,8 @@ variable "backend_admin_password" {
 
 # variable "secret_name" {}
 
+
+variable "client_id" {}
+variable "client_secret" {}
+variable "tenant_id" {}
+variable "subscription_id" {}
